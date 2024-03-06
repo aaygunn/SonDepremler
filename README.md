@@ -1,4 +1,4 @@
-## React Son Depremler
+# React Son Depremler
 
 Uygulamam React kütüphanesi kullanılarak oluşturulmuştur. Kandilli Rasathanesi Api servisinden
 anlık olarak deprem bilgileri alınarak sayfaya yansıtılmaktadır.
@@ -7,13 +7,13 @@ useState, useEffect ve useRef hookları kullanılarak geliştirilmiştir.
 
 Ayrıca arama kutusu aracılığı ile bölge filtrelemesi yapılabilmektedir.
 
-# Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 
 - HTML
 - CSS / Boostrap
 - Js / React
 
-# Ekran Kaydı
+## Ekran Kaydı
 
 
 
